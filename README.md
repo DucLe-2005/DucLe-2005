@@ -9,7 +9,7 @@ I am a second-year CS and Mathematics student at Texas Christian University, pas
 - 💻 Building a webserver using [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/duc-le-517420205/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-le-517420205/)
 
 # 💻 Tech Stack:
 Languages: 
