@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋 I'm Duc Le</h1>
+<h1 align="center">Hi I'm Duc Le</h1>
 
-# 💫 About Me:
-I am a second-year CS and Mathematics student at Texas Christian University, passionate about exploring the realms of software engineering, cloud technologies, and building robust applications.
+# About Me:
+I am a junior, majoring in CS and Mathematics student at Texas Christian University, passionate about exploring the realms of software engineering, cloud technologies, and building robust applications.
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
 - 🤖 Building a database using [Go](https://go.dev/)
-- 💻 Building a webserver using [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-le-517420205/)
