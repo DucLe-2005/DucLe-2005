@@ -5,12 +5,12 @@ I am a junior, majoring in CS and Mathematics student at Texas Christian Univers
 
 ## What I'm Up To
 
-- 🤖 Building a database using [Go](https://go.dev/)
+- Building a database using [Go](https://go.dev/)
 
-## 🌐 Connect with me:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-le-517420205/)
 
-# 💻 Tech Stack:
+# Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
